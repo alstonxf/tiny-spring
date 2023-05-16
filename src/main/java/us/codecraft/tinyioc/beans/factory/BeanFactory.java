@@ -1,8 +1,9 @@
 package us.codecraft.tinyioc.beans.factory;
 
 /**
- * bean的容器
- * @author yihua.huang@dianping.com
+ * BeanFactory 接口，定义了获取 bean 实例的方法
+ *
+ * author yihua.huang@dianping.com
  */
 public interface BeanFactory {
 
